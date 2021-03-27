@@ -22,7 +22,7 @@
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<properties>
 		<license.licenseResolver>${project.baseUri}/../src/license</license.licenseResolver>
-		<elasticsearch.version>1.7.5</elasticsearch.version>
+		<elasticsearch.version>6.8.15</elasticsearch.version>
 		<!-- Note : Jest version >= 2.0 is required for ElasticSearch >= 2.0 too. -->
 		<jest.version>2.0.3</jest.version>
 		<httpclient.version>4.5.2</httpclient.version>
