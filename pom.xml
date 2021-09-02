@@ -61,7 +61,7 @@
     <properties>
 
         <!-- Compiling -->
-        <github.login />
+        <github.login/>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
@@ -109,7 +109,7 @@
 
         <version.ehcache>2.10.1</version.ehcache>
         <version.jedis>2.5.1</version.jedis>
-        <version.neo4j>2.3.1</version.neo4j>
+        <version.neo4j>3.5.0</version.neo4j>
 
         <!-- VERSIONS PLUGINS -->
         <version.maven.plugin.failsafe>2.18.1</version.maven.plugin.failsafe>
@@ -865,7 +865,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -878,7 +878,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -892,7 +892,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
