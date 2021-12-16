@@ -61,7 +61,7 @@
     <properties>
 
         <!-- Compiling -->
-        <github.login />
+        <github.login/>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
@@ -83,7 +83,7 @@
         <version.cglib>3.1</version.cglib>
         <version.aopalliance>1.0</version.aopalliance>
         <version.spring>4.2.3.RELEASE</version.spring>
-        <version.spring.security>3.2.4.RELEASE</version.spring.security>
+        <version.spring.security>5.2.9.RELEASE</version.spring.security>
 
         <version.commons-lang>2.6</version.commons-lang>
         <version.commons-dbcp>1.4</version.commons-dbcp>
@@ -865,7 +865,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -878,7 +878,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -892,7 +892,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
